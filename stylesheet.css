@@ -33,9 +33,27 @@ font-size: 30px;
 padding-top:0;
 font-family: 'Syncopate', sans-serif;
 }
+
+
+@media screen and (max-width: 480px) {
+.experience{
+  font-size:3em;
+  margin-left: 0;
+  margin-right:0;
+  text-align: center;
+}
+
+
+
+}
+
+
+
+
+
 .experience{
 text-align: center;
-font-size: 60px;
+font-size: 3em;
 background-color:#adebad;
 margin-left: 200px;
 margin-right:200px;
@@ -43,6 +61,7 @@ margin-top: 30px;
 margin-bottom: 10px;
 font-family: 'Syncopate', sans-serif;
 }
+
 
 .col-md-4{
 background-color: #944dff;
